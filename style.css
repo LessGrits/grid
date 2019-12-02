@@ -449,6 +449,7 @@ input::placeholder, textarea::placeholder {
 
   .portfolio-section .portfolio-section__btn-case {
     grid-column: 1/2;
+    padding: 40px 0;
   }
 
   .form-section .form {
